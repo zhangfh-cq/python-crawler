@@ -15,4 +15,4 @@ pip install -r requirements.txt
 python main.py
 ```
 
-描述文章：[]()
+描述文章：[Python爬取豆瓣+数据可视化](https://www.alsaces.cn/posts/1a7718bb/)
